@@ -1,0 +1,63 @@
+main{
+    display: flex;
+    justify-content: space-between; 
+    margin: 36px 158px 2px 152px;
+    align-items: center;
+}
+
+
+.logo h1 {
+  color: #d9ecff;
+
+  font-family: KoHo;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px;
+  /* margin-top: 43px;  */
+}
+
+.logo span {
+  color: #21b573;
+  font-family: KoHo;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px;
+}
+
+.menu{
+    display: flex;
+    gap: 20px;
+}
+
+.menu ui {
+    list-style: none;
+    color: #D9ECFF;
+font-family: Inter;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+}
+
+
+.Button{
+width: 143px;
+height: 60px;
+flex-shrink: 0;
+border-radius: 30px;
+border: 3px solid #FFF;
+position: relative;
+}
+
+.Button h4{
+position: absolute;
+color: #FFF;
+background-color: transparent;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin: 12px 32px 15px 33px;
+}
