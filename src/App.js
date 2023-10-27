@@ -1,6 +1,7 @@
 
 import './App.css';
 import Categories from './componets/Categories/Categories';
+import Client from './componets/Client/Client';
 import Courses from './componets/Courses/Courses';
 import Faq from './componets/Faq/Faq';
 import Header from './componets/Header/Header';
@@ -19,6 +20,7 @@ function App() {
      <Courses/>
      <Work/>
      <Faq/>
+     <Client/>
     </div>
   );
 }

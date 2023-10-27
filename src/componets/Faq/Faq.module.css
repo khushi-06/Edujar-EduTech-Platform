@@ -64,6 +64,21 @@ line-height: normal;
 background-color: transparent;
 }
 
+.img8{
+    display: flex;
+    width: 314px;
+    height: 403px;
+    padding: 0px 0.012px 0px 0.006px;
+    flex-direction: column;
+    justify-content: baseline;
+    margin-top: 240px;
+    margin-left: -102px;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+
+
 .right h2{
     justify-self: center;
     color: #E1EFFF;

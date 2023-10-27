@@ -13,6 +13,12 @@ const Faq = () => {
     </button>
       </div>
 
+      <img
+          className={`${style.img8} img8`}
+          src="/images/faq.png"
+          alt="image1"
+        />
+
       <div className={`${style.right} right`}>
         <h2>Can Conversix sync my data to my CRM?</h2>
         <h4>Every data request starts with a target foundation, you will be asked to complete a search request and provide information such as lookalike companies, industries, companies size, revenue, job titles etc.</h4>
