@@ -3,38 +3,46 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    /* gap: 8vh; */
+    gap: 5vh;
+    padding-left: 7vh;
+    padding-top: 2vh;
+    
 }
 
 
 .maincontent {
   display: flex;
   flex-direction: column;
-  gap: 160.63px;
   align-items: center;
+  gap: 50px;
+  
+  
 }
 
 .content {
   display: flex;
   flex-direction: column;
-  gap: 50px;
   align-items: center;
+  gap: 50px;
+  justify-content: center;
   margin-top: 4.69vh;
+  
 }
 .content h3 {
   color: #fff;
   text-align: center;
   font-family: KoHo;
-  font-size: 5.25rem;
+  font-size: 9vh;
   font-style: normal;
   font-weight: 700;
   line-height: 125%;
+  width: 120vh;
 }
 
 .content h3 span {
   color: #fab437;
   font-family: KoHo;
-  font-size: 5.25rem;
+  font-size: 9vh;
   font-style: normal;
   font-weight: 700;
   line-height: 125%;
@@ -43,18 +51,17 @@
 .content h2 {
   color: #d9ecff;
   font-family: Poppins;
-  font-size: 1.875rem;
+  font-size: 3.2vh;
   font-style: normal;
   font-weight: 500;
   line-height: 2.8125rem;
-  width: 58.75rem;
-  height: 2rem;
   flex-shrink: 0;
+  background-color: transparent;
 }
 
 .input {
-  width: 54.125rem;
-  height: 6.1875rem;
+  width: 96vh;
+  height: 10vh;
   flex-shrink: 0;
   border-radius: 3.09375rem;
   background: #3d4e64;
@@ -67,7 +74,7 @@
 .input h2 {
   color: #d9ecff;
   font-family: Poppins;
-  font-size: 22px;
+  font-size: 2.5vh;
   font-style: italic;
   font-weight: 400;
   line-height: 24px; /* 109.091% */
@@ -77,8 +84,9 @@
 
 .button {
   display: flex;
-  width: 7.5515rem;
-  height: 2.75rem;
+  flex-direction: row;
+  width: 13vh;
+  height: 3.5vh;
   padding: 1rem 1.75rem;
   justify-content: center;
   align-items: center;
@@ -94,17 +102,21 @@
   background-color: transparent;
   color: #364c65;
   font-family: Inter;
-  font-size: 1.375rem;
-  font-style: normal;
-  font-weight: 700;
+  font-size: 2vh;
+  font-style:normal;
+  font-weight: 900;
   line-height: 1.75rem;
 }
 
-/* 
+
 .img1 {
-    margin: 13vh 0 0 2vh;
+    margin: 13vh 0 0 -9vh;
+    width: 33vh;
+    height: 45vh;
 }
 
 .img3 {
-    margin-top: 29vh;
-  } */
+    width: 30vh;
+    height: 45vh;
+    margin: 23vh 0 0 3vh;
+  }

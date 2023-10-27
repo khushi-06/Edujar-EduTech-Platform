@@ -7,7 +7,7 @@ const Herosection = () => {
 
       <div className={`${style.image1} image1`}>
         <img
-          className={`${style.im1} img1`}
+          className={`${style.img1} img1`}
           src="/images/1 (2).png"
           alt="image1"
         />
@@ -16,7 +16,7 @@ const Herosection = () => {
           src="/images/1 (1).png"
           alt="image2"
         /> */}
-      </div>
+      </div> 
 
       <div className={`${style.maincontent} maincontent`}>
         <div className={`${style.content} content`}>
@@ -35,7 +35,7 @@ const Herosection = () => {
       </div>
 
 
-      <div className="image2">
+       <div className="image2">
         <img
           className={`${style.img3} img3`}
           src="/images/2(1).png"
@@ -47,7 +47,7 @@ const Herosection = () => {
           src="/images/2(2).png"
           alt="image4"
         /> */}
-      </div>
+      </div> 
     </div>
   );
 };

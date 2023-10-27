@@ -1,0 +1,44 @@
+
+
+.countbox{
+    background-color: transparent;
+    height: 190px;
+    width: 100%;
+    margin-top:16vh ;
+    position: absolute; 
+    display: flex;
+    flex-direction: row;   
+}
+
+.box1{
+    height: 19vh;
+    width: 42vh;
+    background: #354C66;
+}
+
+.box2{
+    height: 19vh;
+    width: 44vh;
+    background: #21B573;
+    margin-top: 45px;
+}
+
+.box3{
+    width: 490px;
+height: 169px;
+flex-shrink: 0;
+background: #354C66;
+}
+
+.box4{
+    height: 19vh;
+    width: 44vh;
+    background: #21B573;
+    margin-top: 45px;
+}
+
+.box5{
+    height: 19vh;
+    width: 42vh;
+    background: #354C66;
+}
