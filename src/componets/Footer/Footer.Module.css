@@ -1,0 +1,98 @@
+.footer{
+    background: #20344A;
+    width: 100%;
+height: 561px;
+flex-shrink: 0;
+}
+
+.app{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: transparent;
+    padding: 16vh;
+}
+
+img{
+    background-color: transparent;
+    height: 5vh;
+}
+
+.navigation{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+    padding: 0 23vh ;
+    background-color: transparent;
+}
+
+.part1{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-evenly;
+
+
+}
+
+.part2{
+    width: 10%;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-evenly;
+    
+}
+
+.part3{
+    width: 13%;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-evenly;
+}
+
+.part4{
+    width: 20%;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+    justify-content: space-evenly;
+    padding: 1vh;
+    
+}
+
+.navigation h2{
+    color: #FFF;
+    font-family: KoHo;
+    font-size: 3vh;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 93.333% */   
+    width: 168px;
+height: 20px;
+flex-shrink: 0;
+background-color: transparent;
+}
+
+
+.navigation h4{
+    color: #E1EFFF;
+    font-family: Poppins;
+    font-size: 2vh;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 200% */ 
+    background-color: transparent;
+    
+}
+
+.navigation{
+    background-color: transparent;
+}

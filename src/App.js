@@ -4,6 +4,7 @@ import Categories from './componets/Categories/Categories';
 import Client from './componets/Client/Client';
 import Courses from './componets/Courses/Courses';
 import Faq from './componets/Faq/Faq';
+import Footer from './componets/Footer/Footer';
 import Header from './componets/Header/Header';
 import Herosection from './componets/Herosection/Herosection';
 import Main from './componets/Main/Main';
@@ -21,6 +22,7 @@ function App() {
      <Work/>
      <Faq/>
      <Client/>
+     <Footer/>
     </div>
   );
 }
