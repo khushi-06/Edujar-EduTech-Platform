@@ -5,6 +5,7 @@
     padding-top: 70px;
     padding-bottom: 60px;
     gap:15px;
+    width: 100%;
 }
 
 .heading h4{
@@ -24,4 +25,13 @@ line-height: 55px; /* 110% */
     font-style: normal;
     font-weight: 500;
     line-height: 40px; /* 160% */ 
+}
+
+.content {
+    width: 100%;
+}
+
+.img{
+width: 100%;
+padding-bottom: 300px;
 }
