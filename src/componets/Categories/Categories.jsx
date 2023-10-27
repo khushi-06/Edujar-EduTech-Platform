@@ -8,7 +8,9 @@ const Categories = () => {
         <h2>Click on the categories and explore all courses</h2>
       </div>
 
-      <div className={`${style.content} content`}></div>
+      <div className={`${style.content} content`}>
+        
+      </div>
       <img
         className={`${style.img} img`}
         src="/images/content-bg.png"
