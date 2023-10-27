@@ -3,7 +3,7 @@ import style from "./Work.Module.css";
 const Work = () => {
   return (
     <div>
-       <div className={`${style.content} content`}>
+       <div className={`${style.content1} content1`}>
 
         <div className={`${style.heading3} heading3`}>
 
