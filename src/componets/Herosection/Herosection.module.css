@@ -3,7 +3,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    gap: 8vh;
+    /* gap: 8vh; */
 }
 
 
@@ -15,8 +15,6 @@
 }
 
 .content {
-  width: 1077px;
-  height: 210px;
   display: flex;
   flex-direction: column;
   gap: 50px;
@@ -102,10 +100,11 @@
   line-height: 1.75rem;
 }
 
+/* 
 .img1 {
     margin: 13vh 0 0 2vh;
 }
 
 .img3 {
     margin-top: 29vh;
-  }
+  } */

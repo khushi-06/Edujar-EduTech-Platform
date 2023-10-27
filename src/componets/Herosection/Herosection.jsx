@@ -3,20 +3,22 @@ import style from "./Herosection.module.css";
 const Herosection = () => {
   return (
     <div className={`${style.hero} hero`}>
+
+
       <div className={`${style.image1} image1`}>
         <img
-          className={`${style.img1} img1`}
+          className={`${style.im1} img1`}
           src="/images/1 (2).png"
-          alt="image"
+          alt="image1"
         />
-        <img
+        {/* <img
           className={`${style.img2} img2`}
           src="/images/1 (1).png"
-          alt="image"
-        />
+          alt="image2"
+        /> */}
       </div>
 
-      <div className={`${style.maincontent} main  content`}>
+      <div className={`${style.maincontent} maincontent`}>
         <div className={`${style.content} content`}>
           <h3>
             Learn with us anywhere with the best <span>experts</span>
@@ -32,18 +34,19 @@ const Herosection = () => {
         </div>
       </div>
 
+
       <div className="image2">
         <img
           className={`${style.img3} img3`}
           src="/images/2(1).png"
-          alt="image"
+          alt="image3"
         />
 
-        <img
+        {/* <img
           className={`${style.img4} img4`}
-          src="/images/2 (2).png"
-          alt="image"
-        />
+          src="/images/2(2).png"
+          alt="image4"
+        /> */}
       </div>
     </div>
   );
