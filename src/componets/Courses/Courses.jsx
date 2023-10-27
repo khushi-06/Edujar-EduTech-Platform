@@ -64,7 +64,25 @@ const Courses = () => {
         </div>
       </div>
 
-      
+      <div className={`${style.explore} explore`}>
+
+      <img
+        className={`${style.img4} img4`}
+        src="/images/Courses/Ellipse 118.png"
+        alt="image1"
+      />
+
+      <div className={`${style.button} button`}>
+        <h2>Explore Courses</h2>
+      </div>
+
+      <img
+        className={`${style.img5} img5`}
+        src="/images/Courses/Star 7.png"
+        alt="image1"
+      />
+
+      </div>
     </div>
   );
 };
