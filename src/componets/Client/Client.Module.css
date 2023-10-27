@@ -22,28 +22,31 @@
     font-size: 70px;
     font-style: normal;
     font-weight: 700;
-    line-height: 80px; /* 114.286% */
+    line-height: 80px; 
     background-color: transparent;
 }
 
+
 .main2 h4{
     color: #E1EFFF;
-    width: 176vh;
+    width: 156vh;
 text-align: center;
 font-family: Poppins;
 font-size: 22px;
 font-style: normal;
 font-weight: 400;
-line-height: 40px; /* 181.818% */
+line-height: 40px; 
 background-color: transparent;
 }
+
+
 .main2 h3{
     color: #FFF;
 font-family: Poppins;
 font-size: 30px;
 font-style: normal;
 font-weight: 600;
-line-height: 28px; /* 93.333% */
+line-height: 28px;
 background-color: transparent;
 }
 
