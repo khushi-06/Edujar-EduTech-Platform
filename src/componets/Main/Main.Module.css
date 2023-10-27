@@ -4,8 +4,7 @@
     background-color: transparent;
     height: 25.7vh;
     width: 100%;
-    margin-top:16vh ;
-    position: absolute; 
+    margin-top:16vh ; 
     display: flex;
     flex-direction: row;   
 }

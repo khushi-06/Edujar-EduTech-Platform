@@ -1,0 +1,27 @@
+.heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 70px;
+    padding-bottom: 60px;
+    gap:15px;
+}
+
+.heading h4{
+    color: #FFF;
+font-family: KoHo;
+font-size: 5.5vh;
+font-style: normal;
+font-weight: 700;
+line-height: 55px; /* 110% */
+}
+
+.heading h2{
+    color: #D9ECFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 2.7vh;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; /* 160% */ 
+}

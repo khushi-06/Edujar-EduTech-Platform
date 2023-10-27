@@ -1,5 +1,6 @@
 
 import './App.css';
+import Categories from './componets/Categories/Categories';
 import Header from './componets/Header/Header';
 import Herosection from './componets/Herosection/Herosection';
 import Main from './componets/Main/Main';
@@ -9,6 +10,7 @@ function App() {
      <Header/>
      <Herosection/>
      <Main/>
+     <Categories/>
     </div>
   );
 }
