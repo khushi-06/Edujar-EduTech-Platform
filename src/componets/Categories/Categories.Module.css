@@ -41,7 +41,6 @@ position: absolute;
 
 .slider{
     display: flex;
-    background-color: black;
     width: 85%;
     height: 250px;
     align-items: center;
